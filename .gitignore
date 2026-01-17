@@ -3,3 +3,9 @@
 .env
 
 chroma_db/
+
+# Unsafe screenshots
+screenshots/code_splitter.png
+screenshots/embedding.png
+screenshots/pdf_loader.png
+screenshots/vectordb.png
